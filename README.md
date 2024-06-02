@@ -1,4 +1,4 @@
-# Analisis-Dinamico-Modal-Espectral
+# Analisis Dinamico Modal Espectral
 Este código ha sido realizado aplicando el análisis dinámico modal espectral en dirección X a un pórtico regular siguiendo lo establecido en la normativa peruana E.030.
 
 Los documentos presentados en el repositorio son:
